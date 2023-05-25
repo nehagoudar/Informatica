@@ -1,0 +1,4 @@
+#USE_SECTIONS
+[Default].[MT_Mapp_SNOW_EXPR_REPRO]
+$$PARM1_INP_DB=GCS
+[Global]
